@@ -1,0 +1,45 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18618882&assignment_repo_type=AssignmentRepo)
+# SE_Day1
+Software Engineering Day1 Assignment
+
+#Part 1: Introduction to Software Engineering
+
+Explain what software engineering is and discuss its importance in the technology industry.
+Software engineering is the process where by engineers design and develop software systems, they use coding to create apps and programs and to make sure they run perfectly.
+Software engineering is like the spinal cord of the technology industry because they designed and continue to design almost everything we use on our daily basis, like our websites, systems that fly our airplanes, computer applications, cell phone apps, systems for running our vehicles and more. This things we need them on our daily lives, and they continue to make sure they run smoothly, even with the pressure of a fast paced evolving industry. 
+
+Identify and describe at least three key milestones in the evolution of software engineering.
+1...2nd Generation Computers, transistors were introduced, replacing bulky vacuum tubes, making computers more energy efficient, reliable and less prone to overheating. They helped decrease the size of the computers and made them more powerful, which was a turning point but also the complexity of the software rised up.
+2... The rise of personal computers in 1980s.The combination of microprocessors and integrated circuits resulted in the development of the first personal computers (PCs) making computing accessible to individuals rather than only large institution. Things like Word processors and spreadsheets became essential tools and it was the start of user friendly software.
+3... The Arrival of the internet in the 1990s, softwares had to be able to connect 2 or more devices with multiple services from different locations at the same time. This led to the creation of Apps, websites, and automatic driving systems we have today. This was ahuge step for software engineering.
+
+List and briefly explain the phases of the Software Development Life Cycle.
+1st. Planning and Requirements. Who is in need of this software, when, and why do they want it and what must it do.
+2nd. Design. you design the software according to the requirements, create a layout of it.
+3rd. Creation. you develop a code for the software and build it as per the specification.
+4th. Test. you test the software's functionality and ensure it runs according to requirements, check for bugs and fix them.
+5th. Deployment and Maintenance. the software is deployed to the target and on-going support is given, to address issues and provide updates when necessary
+
+
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
+
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+
+#Part 2: Introduction to AI and Prompt Engineering
+
+
+Define prompt engineering and discuss its importance in interacting with AI models.
+
+
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
