@@ -44,6 +44,7 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+-unit testing verifies individual components, integration testing checks interactions between modules, system testing evaluates the entire integrated system, and acceptance testing validates if the software meets user and business needs before deployment. 
 
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -54,3 +55,7 @@ Promp Engineering is the process of giving instructions to a generative AI to he
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+vague promt = Write a report about globa warming.
+improved vague promt = write a 500 word report on global warming, show how it has affected the weather, businesses,and how it contributes to most illneses.
+The improved prompt is more effective because it provides clear and specific guidelines for the report needed. It specifies the word count, the topic, and the context. This clarity helps the AI models understand the expectations and focus their researches and writing efforts effectively. It also prevents ambiguity and ensures that the AI model's work aligns with the instructor's objectives.
+
