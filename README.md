@@ -34,6 +34,11 @@ Project Manager roles are planning, executing, and delivering projects on time a
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+They are both foundational tools in software development.
+-IDE's provide many feature that makes coding easier, such as syntax higlighting, code completion, debugging tools and build automation. This features provides efficiency and significantly boost developer's productivity.
+e.g Visual Studio Code, IntelliJ idea and Eclipse.
+-VCS they are essentials for tracking coding over time. They enable teams to collaborate effectively on projects, preventing conflicts and ensuring a clear development history. They are also crucial for reverting code states if errors arise, and for understanding the evolution of software.
+e.g Git, Subversion, and Mercurial.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -51,7 +56,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Promp Engineering is the process of giving instructions to a generative AI to help produce requested results. Enables users to guide AI models towards producing accurate, relevant, and contextually appropriate responses, enhancing user experience and AI application utility. 
+Prompt Engineering is the process of giving instructions to a generative AI to help produce requested results. Enables users to guide AI models towards producing accurate, relevant, and contextually appropriate responses, enhancing user experience and AI application utility. 
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
