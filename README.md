@@ -3,11 +3,9 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the process where by engineers design and develop software systems, they use coding to create apps and programs and to make sure they run perfectly.
 Software engineering is like the spinal cord of the technology industry because they designed and continue to design almost everything we use on our daily basis, like our websites, systems that fly our airplanes, computer applications, cell phone apps, systems for running our vehicles and more. This things we need them on our daily lives, and they continue to make sure they run smoothly, even with the pressure of a fast paced evolving industry. 
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 (a)2nd Generation Computers, transistors were introduced, replacing bulky vacuum tubes, making computers more energy efficient, reliable and less prone to overheating. They helped decrease the size of the computers and made them more powerful, which was a turning point but also the complexity of the software rised up.
 (b)The rise of personal computers in 1980s.The combination of microprocessors and integrated circuits resulted in the development of the first personal computers (PCs) making computing accessible to individuals rather than only large institution. Things like Word processors and spreadsheets became essential tools and it was the start of user friendly software.
