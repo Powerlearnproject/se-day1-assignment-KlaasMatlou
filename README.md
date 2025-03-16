@@ -9,9 +9,9 @@ Software engineering is the process where by engineers design and develop softwa
 Software engineering is like the spinal cord of the technology industry because they designed and continue to design almost everything we use on our daily basis, like our websites, systems that fly our airplanes, computer applications, cell phone apps, systems for running our vehicles and more. This things we need them on our daily lives, and they continue to make sure they run smoothly, even with the pressure of a fast paced evolving industry. 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1...2nd Generation Computers, transistors were introduced, replacing bulky vacuum tubes, making computers more energy efficient, reliable and less prone to overheating. They helped decrease the size of the computers and made them more powerful, which was a turning point but also the complexity of the software rised up.
-2... The rise of personal computers in 1980s.The combination of microprocessors and integrated circuits resulted in the development of the first personal computers (PCs) making computing accessible to individuals rather than only large institution. Things like Word processors and spreadsheets became essential tools and it was the start of user friendly software.
-3... The Arrival of the internet in the 1990s, softwares had to be able to connect 2 or more devices with multiple services from different locations at the same time. This led to the creation of Apps, websites, and automatic driving systems we have today. This was ahuge step for software engineering.
+(a)2nd Generation Computers, transistors were introduced, replacing bulky vacuum tubes, making computers more energy efficient, reliable and less prone to overheating. They helped decrease the size of the computers and made them more powerful, which was a turning point but also the complexity of the software rised up.
+(b)The rise of personal computers in 1980s.The combination of microprocessors and integrated circuits resulted in the development of the first personal computers (PCs) making computing accessible to individuals rather than only large institution. Things like Word processors and spreadsheets became essential tools and it was the start of user friendly software.
+(c)The Arrival of the internet in the 1990s, softwares had to be able to connect 2 or more devices with multiple services from different locations at the same time. This led to the creation of Apps, websites, and automatic driving systems we have today. This was ahuge step for software engineering.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 1st. Planning and Requirements. Who is in need of this software, when, and why do they want it and what must it do.
@@ -42,10 +42,10 @@ e.g Git, Subversion, and Mercurial.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
--Project deadline. Engineers often have to work quickly to meet project deadlines ,and this can lead to stress and mistakes and fatigue. Using available resources to automate tasks and focusing on the important features first can help.
--Debugging. Finding and fixing errors in code can be time consuming. Using debugging tools and writing clean code from the start can help make the process easier.
--Changing requirements. Clients can sometimes change their minds about what they wanted, this can be stressful and frustrating, but it's important to stay flexible and have good communication with whe client.
--Staying up-to date. Technological industry is a fast paced evolving industry and it can be hard to keep up with the latest trends and tools. setting aside time for learning and joining online communities can help.
+Project deadline. Engineers often have to work quickly to meet project deadlines ,and this can lead to stress and mistakes and fatigue. Using available resources to automate tasks and focusing on the important features first can help.
+Debugging. Finding and fixing errors in code can be time consuming. Using debugging tools and writing clean code from the start can help make the process easier.
+Changing requirements. Clients can sometimes change their minds about what they wanted, this can be stressful and frustrating, but it's important to stay flexible and have good communication with whe client.
+Staying up-to date. Technological industry is a fast paced evolving industry and it can be hard to keep up with the latest trends and tools. setting aside time for learning and joining online communities can help.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -60,7 +60,7 @@ Prompt Engineering is the process of giving instructions to a generative AI to h
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-vague promt = Write a report about globa warming.
-improved vague promt = write a 500 word report on global warming, show how it has affected the weather, businesses,and how it contributes to most illneses.
+vague prompt = Write a report about globa warming.
+improved vague prompt = write a 500 word report on global warming, show how it has affected the weather, businesses,and how it contributes to most illneses.
 The improved prompt is more effective because it provides clear and specific guidelines for the report needed. It specifies the word count, the topic, and the context. This clarity helps the AI models understand the expectations and focus their researches and writing efforts effectively. It also prevents ambiguity and ensures that the AI model's work aligns with the instructor's objectives.
 
